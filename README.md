@@ -17,3 +17,17 @@ Models converged well (ˆR = 1.0) with high effective sample sizes.
 #### Reproducibility
 
 All code (Python, PyMC, Pandas) is provided as a Jupyter notebook. The report (PDF) includes full derivations, prior justification, posterior summaries, and trace plots. A requirements.txt file and data‑cleaning steps are included for full reproducibility.
+
+## Data Source
+
+Centers for Disease Control and Prevention. (2024). *National Wastewater 
+Surveillance System (NWSS) Public Concentration Data*. U.S. Department of 
+Health & Human Services. https://www.cdc.gov/nwss/
+
+## Citation
+
+If you use or reference this work, please cite it as:
+
+Michael Terranova. (2026). *Bayesian hierarchical modeling of multi-pathogen 
+wastewater surveillance across 1,200+ CDC NWSS sites*. GitHub. 
+https://github.com/michael2893/cdc-wastewater
