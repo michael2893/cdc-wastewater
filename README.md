@@ -28,8 +28,6 @@ Health & Human Services. https://www.cdc.gov/nwss/
 
 ## Citation
 
-If you use or reference this work, please cite it as:
-
-Michael Terranova. (2026). *Bayesian hierarchical modeling of multi-pathogen 
-wastewater surveillance across 1,200+ CDC NWSS sites*. GitHub. 
-https://github.com/michael2893/cdc-wastewater
+Terranova, M. (2026). *Bayesian hierarchical modeling of multi-pathogen wastewater 
+surveillance across 1,200+ CDC NWSS sites* (v1.0.0). Zenodo. 
+https://doi.org/10.5281/zenodo.20368030
