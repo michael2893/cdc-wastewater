@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1248443754.svg)](https://doi.org/10.5281/zenodo.20368030)
+
 ### Summary
 
 Bayesian analysis of CDC wastewater viral data to understand how population size affects SARS‑CoV‑2, RSV, and Influenza‑A concentrations.
