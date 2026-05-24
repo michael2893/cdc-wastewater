@@ -1,0 +1,8 @@
+arviz==0.23.4
+ipython==8.12.3
+matplotlib==3.10.9
+nibabel==5.4.2
+numpy==2.4.6
+pandas==3.0.3
+pymc==5.28.4
+scikit_learn==1.8.0
